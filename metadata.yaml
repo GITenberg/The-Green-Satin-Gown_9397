@@ -1,0 +1,38 @@
+_repo: The-Green-Satin-Gown_9397
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+tableOfContents: The Green Satin Gown -- Blue Egyptians -- Little Benjamin -- Don
+  Alonzo -- The Shed Chamber -- Maine To The Rescue -- The Scarlet Leaves
+title: The Green Satin Gown
+url: http://www.gutenberg.org/ebooks/9397
