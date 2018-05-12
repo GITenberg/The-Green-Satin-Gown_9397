@@ -1,5 +1,5 @@
 _repo: The-Green-Satin-Gown_9397
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Barry, Etheldred B. (Etheldred Breeze)
@@ -10,6 +10,9 @@ contributor:
     birthdate: 1870
     gutenberg_agent_id: '6348'
     url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richards, Laura Elizabeth Howe
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9397#The-Green-Satin-Gown
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
